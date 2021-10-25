@@ -207,7 +207,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: JK & CO digital maketing company
+  title: JK & CO digital marketing company
   description: jk & co digital marketing company
   extra:
     - name: 'og:type'
