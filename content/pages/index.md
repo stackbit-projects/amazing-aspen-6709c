@@ -208,7 +208,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: JK & CO digital maketing company
-  description: The preview of the Personal theme
+  description: jk & co digital marketing company
   extra:
     - name: 'og:type'
       value: website
